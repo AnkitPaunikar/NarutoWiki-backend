@@ -4,6 +4,7 @@ npm i
 npm start 
 
 If you want to run these endpoints locally, you will need MongoDB setup on your machine and all the documents created on it, or you can create a JSON server.
+
 Here is the link to all the data in JSON format: https://github.com/AnkitPaunikar/Narutodb-frontend/tree/main/src/data
 
 This backend provides two end points 
